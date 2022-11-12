@@ -1,0 +1,15 @@
+{
+    "name": "g123udini/seowork_test",
+    "autoload": {
+        "psr-4": {
+            "SeoworkTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "g123udini",
+            "email": "g123udini@gmail.com"
+        }
+    ],
+    "require": {}
+}
