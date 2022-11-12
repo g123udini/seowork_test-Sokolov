@@ -1,6 +1,8 @@
 <?php
 
 //Проверочный скрипт
+
+
 use SeoworkTest\Calculator;
 use SeoworkTest\SumHelper;
 
