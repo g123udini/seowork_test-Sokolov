@@ -11,5 +11,7 @@
             "email": "g123udini@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ext-gmp": "*"
+    }
 }
